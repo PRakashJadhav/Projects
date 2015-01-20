@@ -1,0 +1,35 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4052]
+    Renderer: NVIDIA GeForce GTX 650 Ti 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Program Files\GitHub\Projects\Unity - Antivirus\Runnable Project\ANTIVIRUS - Windows\ANTIVIRUS_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1360x768 60Hz; virtual: 2960x900 at -1600,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 0.495704 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 1.019759 ms (FindLiveObjects: 0.046472 ms CreateObjectMapping: 0.023382 ms MarkObjects: 0.180920 ms  DeleteObjects: 0.030981 ms)
+

@@ -25,10 +25,11 @@ located on the map. The recursive process of drawing this
 map operates similarly to depth-first graph traversal.
 The other form is the "multiroot" generator that can draw 
 the map with a varying number of roots, determined by the 
-user. The recursive process of drawing of the multirooted 
-map operates similarly to breadth-first graph traversal.
-The dimensions of the map generated can be set with the
-"Set X" and "Set Y" buttons on the interface.
+user. For this version, the recursive branching process is
+done with a queue instead of recursive function calls, and 
+operates similarly to breadth-first graph traversal. The 
+dimensions of the map generated can be set with the "Set X" 
+and "Set Y" buttons on the interface.
 
 In understanding the overall result, the bright green node
 is the root node that the map recursively branched out
@@ -58,5 +59,5 @@ method of checking for a closed map product, these
 maps are presented as a final product for three or
 more roots whereas they are otherwise discarded
 correctly for one or two roots. Also, I need to
-combine the two setup - regular and multiroot - into
+combine the two setups - regular and multiroot - into
 single classes rather than multiples of some.

@@ -26,14 +26,14 @@ included as an example of how the application works.
 The application also demonstrates a set of classes I wrote
 that allows for easier Java application creation. Using
 a set of abstract classes, a developer can create windows,
-displays with buttons and fields, mouse and keybaord listeners, 
+displays with buttons and fields, mouse and keyboard listeners, 
 and file writers/loaders. As someone who likes using Java
 to make applications, someone who particularly hates using
 predefined objects like JButtons, and as someone who wants
 an easier way to create/use windows and displays where needed,
 I wrote predefined, yet still flexible and implementable,
 classes of this sort. The main portion of these classes
-are the buttons and fields, which are interactable items
+are the buttons and fields, which are interactive items
 in the display that are (in my opinion) much more easily
 implementable than the Java ones. These classes are
 in the "Application" package.
@@ -45,5 +45,5 @@ for the application to give recommendations. Such a
 recommendation would be, for example, "To get to 640 from 638,
 you can replace Item 1 and Item 2 with items of level 650,
 or you can replace Item 1 with a 660." Such an addition
-would allow the user to look at possibile solutions for
+would allow the user to look at possible solutions for
 reaching a targeted level and decide how to proceed.

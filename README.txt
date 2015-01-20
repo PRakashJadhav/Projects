@@ -1,7 +1,7 @@
 Project Repository README
 @Zach Janice
 
-This GitHub repository contians some examples of my
+This GitHub repository contains some examples of my
 recent work, consisting mainly of independent projects
 and experiments but also of a group project I worked on
 as a part of one of my classes. Descriptions and notes

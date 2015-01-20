@@ -1,0 +1,38 @@
+Here is all the information you need to know about the different towers:
+
+
+(Key 1) THREAD TOWER: This tower is the simplest tower,attacking a single 
+virus at a moderate rate.
+
+(Key 2) GLITCH TOWER: This tower stuns viruses that it hits, dealing a 
+reduced amount of damage but temporarily stopping the viruses in place.
+
+(Key 3) GARBAGE COLLECTION TOWER: This tower reclaims RAM from dead viruses 
+whose processes have ended, giving bonus credits for the purchase of towers 
+to the player when a Collection Tower deals the killing blow to a virus.
+
+(Key 4) PROCESS MODERATOR TOWER: This tower monitors and equalizes the 
+healths of the viruses passing through by prioritizing the virus in its 
+range with the highest health.
+
+(Key 5) PROCESS TERMINATOR TOWER: This tower picks off and ends specific 
+viruses by prioritizing the virus in its range with the lowest health.
+
+(Key 6) BREAK TOWER: This tower snipes viruses from afar, dealing a high 
+amount of damage at a very high range at the cost of a long time period in 
+between shots.
+
+(Key 7) WIPE TOWER: This tower aims at the middle of its targeted group and 
+deals raid area-of-effect damage in a small radius.
+
+(Key 8) LAG TOWER: This tower emits pulses of lag, slowing viruses that are 
+hit by the pulse. Viruses that are glitched will ignire this pulse.
+
+(Key 9) MEMORY TOWER: This tower recalls its attacking process in memory as 
+it attacks in rapid succession, allowing the tower to reduce its cooldown 
+progressively so long as an in-range virus exists for it when it's ready to 
+attack.
+
+(Key 0) LOAD TOWER: This tower fires a massive processing load onto nearby 
+viruses, dealing a massive amount of damage that is divided evenly among all 
+viruses hit.
